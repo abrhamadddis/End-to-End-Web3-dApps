@@ -26,7 +26,7 @@ The objective of this project, commissioned by 10 Academy, is to address the cha
 
 Algorand sets itself apart with Pure Proof-of-Stake consensus for decentralization and speed. It features Algorand Standard Assets for token creation and Algorand Smart Contracts for executing decentralized applications. Emphasizing security and openness, Algorand supports atomic transfers and aims to prevent node power concentration.
 
-## Directory Structure
+## Project Structure
 
 Here's a brief overview of the directory structure:
 
@@ -52,7 +52,7 @@ npm start
 
 ![Alt text](./image/front_end.png?raw=true "front end")
 
-Django Server
+Backend Server
 ```
 git clone https://github.com/abrhamadddis/End-to-End-Web3-dApps
 cd End-to-End-Web3-dApps/fullstack/backend/smart_contracts/certificate/
