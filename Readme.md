@@ -32,7 +32,7 @@ Here's a brief overview of the directory structure:
 
 1. **Root Directory**: This is the top-level directory of your project. It contains configuration files like `.gitignore` and `Readme.md`, which provide an overview and instructions for the project.
 
-2. **Fullstack Directory**: This directory contains the backend and frontend components of your project.
+2. **Fullstack Directory**: This directory contains the backend and frontend components of the project.
 
 3. **Image Directory**: This directory contains various image files related to the project.
 
